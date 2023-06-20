@@ -48,8 +48,8 @@ async def upload_text_telegraph(client, message: Message):
         IN_BUTTON = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🤩 ᴊᴏɪɴ ᴜs", url="https://t.me/Alexa_Help"),
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs 🐲", url="https://t.me/Alexa_BotUpdates")
+                    InlineKeyboardButton("🤩 ᴊᴏɪɴ ᴜs", url="https://t.me/Abi_Hadieda"),
+                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs 🐲", url="https://t.me/Abo_Hadieda")
                 ],
                 [
                     InlineKeyboardButton("🌐 ᴡᴇʙ ᴘʀᴇᴠɪᴇᴡ 🌐", url=generated_link)
@@ -110,8 +110,8 @@ async def upload_to_telegraph(bot, message):
             IN_BUTTON = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🤩 ᴊᴏɪɴ ᴜs", url="https://t.me/Alexa_Help"),
-                        InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs 🐲", url="https://t.me/Alexa_BotUpdates")
+                        InlineKeyboardButton("🤩 ᴊᴏɪɴ ᴜs", url="https://t.me/Abi_Hadieda"),
+                        InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs 🐲", url="https://t.me/Abo_Hadieda")
                     ],
                     [
                         InlineKeyboardButton("🌐 ᴡᴇʙ ᴘʀᴇᴠɪᴇᴡ 🌐", url=generated_link)
