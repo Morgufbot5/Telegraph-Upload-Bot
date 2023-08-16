@@ -28,7 +28,7 @@
 ## HEROKU DEPLOYMENT: ❤️
 ᴛʜᴇ ᴇᴀsʏ ᴡᴀʏ ᴛᴏ ʜᴏsᴛ ᴛʜɪs ʙᴏᴛ, ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ, ᴄʜᴀɴɢᴇ ᴛʜᴇ ᴀᴘᴘ ᴄᴏᴜɴᴛʀʏ ᴛᴏ ᴇᴜʀᴏᴘᴇ (ɪᴛ ᴡɪʟʟ ʜᴇʟᴘ ᴛᴏ ᴍᴀᴋᴇ ᴛʜᴇ ʙᴏᴛ sᴛᴀʙʟᴇ).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheTeamAlexa/Telegraph-Upload-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Morgufbot5/Telegraph-Upload-Bot)
 - <a href="https://theteamalexa.ga">Visit Our Website ✨</a>
 - <a href="http://t.me/Alexa_TelegraphBot">Try Our Bot ✨</a>
 
